@@ -14,11 +14,11 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 
 ### 📜 Multas
 
-POST login/CreateUser: Criação de usuario.
-POST principal/User: Retorna informações do usuario em questão
-POST principal/Read/{n}/{m}: Retorna uma lista de multas a respeito do usuario.
-POST principal/atualizar: Atualiza informações de endereço do User.
-POST principal/Relatorio: Recebe FeedBack do usuario.
+- POST login/CreateUser: Criação de usuario.
+- POST principal/User: Retorna informações do usuario em questão
+- POST principal/Read/{n}/{m}: Retorna uma lista de multas a respeito do usuario. Onde {n} é o numero da pagina. E {m} e o numero de dados por pagina.
+- POST principal/atualizar: Atualiza informações de endereço do User.
+- POST principal/Relatorio: Recebe FeedBack do usuario.
 
 ## 🚨 Segurança com Spring Security e JWT
 
