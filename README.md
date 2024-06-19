@@ -3,6 +3,8 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 
 ## ⚙️ Tecnologias Usadas 
 
+- ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Blog(https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)] ![Blog(https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]
+
 - Spring Boot: Framework para criar aplicações Java stand-alone e prontas para produção.
   
 - Spring Data JPA: Facilita a integração com bancos de dados, fornecendo uma abstração de alto nível sobre o JPA.
@@ -15,7 +17,6 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
   
 - Insomnia: Ferramenta para testar a API.
   
-- ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ## 🌐 Endpoints Disponíveis para Usuario 'Motorista'
 
 ### 📜 Multas
