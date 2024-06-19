@@ -32,5 +32,5 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 A API utiliza autenticação JWT para garantir que apenas usuários autorizados possam acessar os endpoints.
 As informações sensíveis são criptografadas antes de serem armazenadas no banco de dados para garantir a segurança dos dados.
 
-#### Afim de tornar este projeto mais completo e intuitivo, se estende tambem uma aplicação Front-End que pode ser encontrado no Repositorio Front-End--OHT. [![Blog](https://img.shields.io/AlisonMartins/http/monip.org.svg)](https://github.com/AlisonMartinss/Front-End--OHT)
+#### Afim de tornar este projeto mais completo e intuitivo, se estende tambem uma aplicação Front-End que pode ser encontrado no Repositorio Front-End--OHT. [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/AlisonMartinss/Front-End--OHT)
 
