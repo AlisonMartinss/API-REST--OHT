@@ -15,7 +15,7 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
   
 - Insomnia: Ferramenta para testar a API.
   
-- [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+- ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ## 🌐 Endpoints Disponíveis para Usuario 'Motorista'
 
 ### 📜 Multas
