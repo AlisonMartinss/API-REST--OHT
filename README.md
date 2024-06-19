@@ -4,11 +4,18 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 ## ⚙️ Tecnologias Usadas 
 
 - Spring Boot: Framework para criar aplicações Java stand-alone e prontas para produção.
+  
 - Spring Data JPA: Facilita a integração com bancos de dados, fornecendo uma abstração de alto nível sobre o JPA.
+  
 - Spring Security com JWT: Fornece autenticação e autorização baseadas em tokens JWT para proteger os endpoints da API.
+  
 - MySQL: Banco de dados em memória para desenvolvimento e testes.
+  
 - Maven: Ferramenta de gerenciamento de dependências e build.
+  
 - Insomnia: Ferramenta para testar a API.
+
+- [!blog(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 
 ## 🌐 Endpoints Disponíveis para Usuario 'Motorista'
 
