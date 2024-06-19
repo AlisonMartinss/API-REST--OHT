@@ -27,5 +27,3 @@ As informações sensíveis são criptografadas antes de serem armazenadas no ba
 
 Afim de tornar este projeto mais completo e intuitivo, se estende tambem uma aplicação Front-End que pode ser encontrado no Repositorio OHT---Front-End. 💻
 
-![teste](https://github.com/AlisonMartinss/Assets/blob/main/Captura%20de%20tela%202024-06-19%20141014.png)
-
