@@ -14,9 +14,8 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 - Maven: Ferramenta de gerenciamento de dependências e build.
   
 - Insomnia: Ferramenta para testar a API.
-
-- [!blog(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
-
+  
+- [![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 ## 🌐 Endpoints Disponíveis para Usuario 'Motorista'
 
 ### 📜 Multas
