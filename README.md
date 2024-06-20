@@ -3,7 +3,7 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 
 ## ⚙️ Tecnologias Usadas 
 
-- ![Blog](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg) ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)           ![Blog](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm) ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)           ![Blog](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white) ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 - Spring Boot: Framework para criar aplicações Java stand-alone e prontas para produção.
   
