@@ -3,7 +3,7 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 
 ## ⚙️ Tecnologias Usadas 
 
-- ![My Skills](https://skillicons.dev/icons?i=java,spring,mysql) 
+- ![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate) 
 
 - Spring Boot: Framework para criar aplicações Java stand-alone e prontas para produção.
   
