@@ -3,13 +3,20 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 
 ## ⚙️ Tecnologias Usadas 
 
-- Spring Boot: Framework para criar aplicações Java stand-alone e prontas para produção.
-- Spring Data JPA: Facilita a integração com bancos de dados, fornecendo uma abstração de alto nível sobre o JPA.
-- Spring Security com JWT: Fornece autenticação e autorização baseadas em tokens JWT para proteger os endpoints da API.
-- MySQL: Banco de dados em memória para desenvolvimento e testes.
-- Maven: Ferramenta de gerenciamento de dependências e build.
-- Insomnia: Ferramenta para testar a API.
+- ![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven,hibernate) 
 
+- Spring Boot: Framework para criar aplicações Java stand-alone e prontas para produção.
+  
+- Spring Data JPA: Facilita a integração com bancos de dados, fornecendo uma abstração de alto nível sobre o JPA.
+  
+- Spring Security com JWT: Fornece autenticação e autorização baseadas em tokens JWT para proteger os endpoints da API.
+  
+- MySQL: Banco de dados em memória para desenvolvimento e testes.
+  
+- Maven: Ferramenta de gerenciamento de dependências e build.
+  
+- Insomnia: Ferramenta para testar a API.
+  
 ## 🌐 Endpoints Disponíveis para Usuario 'Motorista'
 
 ### 📜 Multas
@@ -25,5 +32,7 @@ Este projeto consiste na implementação de uma API RESTful utilizando Spring Bo
 A API utiliza autenticação JWT para garantir que apenas usuários autorizados possam acessar os endpoints.
 As informações sensíveis são criptografadas antes de serem armazenadas no banco de dados para garantir a segurança dos dados.
 
-Afim de tornar este projeto mais completo e intuitivo, se estende tambem uma aplicação Front-End que pode ser encontrado no Repositorio OHT---Front-End. 💻
+#### Afim de tornar este projeto mais completo e intuitivo, se estende tambem uma aplicação Front-End que pode ser encontrado no Repositorio Front-End--OHT. (Que pode ser acessado clicando no botão abaixo)
+
+- [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://github.com/AlisonMartinss/Front-End--OHT)
 

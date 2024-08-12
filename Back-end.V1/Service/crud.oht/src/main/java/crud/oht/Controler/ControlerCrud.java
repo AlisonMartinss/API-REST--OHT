@@ -9,6 +9,8 @@ import crud.oht.userPropeties.DTOs.UpUser;
 import crud.oht.userPropeties.DTOs.UserReturn;
 import crud.oht.userPropeties.JPAentity.Entity_user;
 import crud.oht.userPropeties.Repositorys.Repository_user;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -18,6 +20,8 @@ import crud.oht.cepServicy.cepServicy;
 import java.util.List;
 
 @RestController
+
+@SecurityRequirement(name = "bearer-key")
 @RequestMapping("/principal")
 public class ControlerCrud {
 
@@ -38,6 +42,7 @@ public class ControlerCrud {
     }
 
     @PostMapping("/Read/{npage}/{nperpage}/{option}")
+    @Operation(summary = "Retorna uma saudação", description = "Este endpoint retorna uma saudação simples para o usuário.")
     public ResponseEntity<List<Entity_Crud>> realese (@RequestBody UpMulta JSON,@PathVariable int npage,@PathVariable int nperpage,@PathVariable int option){
 
         var resultado = crudService.realiseAll(JSON,npage,nperpage,option);
